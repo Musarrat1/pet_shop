@@ -6,10 +6,18 @@
     font-weight: 400;
     font-style: normal;
   }
+  .adlam-display-regular {
+   font-family: "ADLaM Display", serif;
+   font-weight: 400;
+   font-style: normal;
+ }
+ 
   span{
     color: #FFDC26;
   }
-  nav{
-    display: flex;
-    gap : 10px;
-  }
+ hr{
+    display: none;
+ }
+ .menu{
+   display: none;
+ }
