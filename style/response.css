@@ -26,6 +26,11 @@
       display: grid;
       grid-template-columns: repeat(2,3fr);
      }
+     .dog-card{
+      display: grid;
+      grid-template-columns: repeat(3,3fr);
+     }
+    
      
     
     
